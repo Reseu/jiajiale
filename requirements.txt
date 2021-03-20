@@ -16,7 +16,7 @@ geetest==3.2.1
 idna==2.6
 itsdangerous==1.1.0
 jieba==0.39
-Jinja2==2.10
+Jinja2==2.11.3
 kombu==4.4.0
 MarkupSafe==1.1.1
 mutagen==1.42.0
